@@ -1,5 +1,5 @@
 # Starter Web Project
-This is just a test repo
+This is just a test repo.
 
 ## Introduction
 More changes to the file
