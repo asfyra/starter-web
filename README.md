@@ -15,3 +15,6 @@ Changes from master branch
 Some more changes from master branch....
 More changes from feature branch 2
 2021 Git.
+
+Change in master
+
